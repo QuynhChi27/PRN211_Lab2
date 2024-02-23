@@ -1,0 +1,9 @@
+D:\Demo\FU\Hands-on Labs\lab2\AutomobileWinApp\obj\Debug\net8.0-windows7.0\AutomobileWinApp.csproj.AssemblyReference.cache
+D:\Demo\FU\Hands-on Labs\lab2\AutomobileWinApp\obj\Debug\net8.0-windows7.0\AutomobileWinApp.Form1.resources
+D:\Demo\FU\Hands-on Labs\lab2\AutomobileWinApp\obj\Debug\net8.0-windows7.0\AutomobileWinApp.frmCarDetails.resources
+D:\Demo\FU\Hands-on Labs\lab2\AutomobileWinApp\obj\Debug\net8.0-windows7.0\AutomobileWinApp.frmCarManagement.resources
+D:\Demo\FU\Hands-on Labs\lab2\AutomobileWinApp\obj\Debug\net8.0-windows7.0\AutomobileWinApp.csproj.GenerateResource.cache
+D:\Demo\FU\Hands-on Labs\lab2\AutomobileWinApp\obj\Debug\net8.0-windows7.0\AutomobileWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\FU\Hands-on Labs\lab2\AutomobileWinApp\obj\Debug\net8.0-windows7.0\AutomobileWinApp.AssemblyInfoInputs.cache
+D:\Demo\FU\Hands-on Labs\lab2\AutomobileWinApp\obj\Debug\net8.0-windows7.0\AutomobileWinApp.AssemblyInfo.cs
+D:\Demo\FU\Hands-on Labs\lab2\AutomobileWinApp\obj\Debug\net8.0-windows7.0\AutomobileWinApp.csproj.CoreCompileInputs.cache
